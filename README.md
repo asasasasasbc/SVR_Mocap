@@ -2,6 +2,8 @@
 Simpe Virtual Reality Motion Capture System
 (SVR Mocap System)
 
+To download this program (not the source code), you can click the "release" button on this webpage and download the zip file.
+
 Developer: Alan Zhang 
 Website:www.cia7.com 
 Version: v0.1
