@@ -4,6 +4,9 @@ Simple Virtual Reality Motion Capture System
 
 To download this program (not the source code), you can click the "release" button on this webpage and download the zip file.
 
+Here is the release page if you cannot find that button:
+https://github.com/asasasasasbc/SVR_Mocap/releases
+
 Developer: Alan Zhang 
 Website:www.cia7.com 
 Version: v0.1
